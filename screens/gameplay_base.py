@@ -1,0 +1,1 @@
+# Estrutura da tela de gameplay: controla tempo, pontuação, transição entre desafios, mantém layout etc.

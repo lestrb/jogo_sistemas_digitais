@@ -1,0 +1,1 @@
+# Centralizar o código base dos desafios: iniciar, atualizar, desenhar na tela, checar resposta etc.

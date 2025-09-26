@@ -1,0 +1,1 @@
+# Funções auxiliares e utilitários gerais, que não pertencem a uma classe específica

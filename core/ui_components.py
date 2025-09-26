@@ -1,0 +1,1 @@
+# Componentes reutilizáveis para serem utilizados em diferentes telas do jogo
